@@ -1,15 +1,15 @@
 
-## Pranav Sathish says!!
-
-### Welcome 👋
-
+### Hey there.. 👋
+<h1> Pranav Sathish </h1>
 
 
-### I am an engineer dedicated to my goals. 
-### I Build, I Design, I Code
+<h3>I am an engineer dedicated to my goals. </h3>
+<h3> I Build, I Design, I Code </h3>
+
+<center>Center this text!</center>
 
 
-## We can talk about * ROS, OpenCV, C/C++, Python, Deep learning, Aeromodelling, Robots, Drones
+## We can talk about ROS, OpenCV, C/C++, Python, Deep learning, Aeromodelling, Robots, Drones.
  
 <!--
 **vanarp0915/vanarp0915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
