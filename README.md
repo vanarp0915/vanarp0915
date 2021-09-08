@@ -6,7 +6,6 @@
 <h3>I am an engineer dedicated to my goals. </h3>
 <h3> I Build, I Design, I Code </h3>
 
-<center>Center this text!</center>
 
 
 ## We can talk about ROS, OpenCV, C/C++, Python, Deep learning, Aeromodelling, Robots, Drones.
