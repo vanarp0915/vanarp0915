@@ -4,7 +4,7 @@
 </p>
 -->
 
-HELLO WORLD!!
+<h2> HELLO WORLD!! </h2>
 
 <h1> Pranav Sathish here!!</h1>
 
